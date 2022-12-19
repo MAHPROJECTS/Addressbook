@@ -416,19 +416,6 @@ class Ui_MainWindow(object):
 
                 pass
 
-
-        
-
-
-
-
-
-
-
-
-
-
-
     def close_it(self):
         #Create a database or connnect to one
         conn = sqlite3.connect('ab.db')
